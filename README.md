@@ -100,4 +100,5 @@ This project is part of an academic submission. The reports and analysis are sha
 
 **Antareep Ghosh**  
 Roll No: 23F2001127  
-Email: [your email here] (optional)  
+Personal Email: antareep576@gmail.com  
+Student Email: 23f2001127@ds.study.iitm.ac.in
